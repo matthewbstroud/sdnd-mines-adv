@@ -4,6 +4,7 @@
   "description": "Mines of Phandelver",
   "main": "module.json",
   "scripts": {
+    "fixThumbs": "node ./tools/fixThumbPaths.mjs",
     "pushLDBtoYML": "node ./tools/pushLDBtoYML.mjs",
     "pullYMLtoLDB": "node ./tools/pullYMLtoLDB.mjs"
   },
