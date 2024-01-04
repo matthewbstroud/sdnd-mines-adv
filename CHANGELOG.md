@@ -1,3 +1,6 @@
+# v1.11.4
+# Bug Fixes
+- Fixed missing thumbnails.
 # v1.11.3
 # New Features
 - Added SFX
