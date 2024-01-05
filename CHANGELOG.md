@@ -1,3 +1,6 @@
+# v1.11.5
+# Bug Fixes
+- Fixed missing sfx.
 # v1.11.4
 # Bug Fixes
 - Fixed missing thumbnails.
