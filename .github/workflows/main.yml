@@ -106,7 +106,7 @@ jobs:
         run: npm install -g @foundryvtt/foundryvtt-cli
       - run: fvtt configure set "dataPath" ${GITHUB_WORKSPACE}
       - name: Build Packs
-        run: npm run pullYMLtoLDB
+        run: npm run updateLDB
 
       # Create a "module.zip" archive containing all the module's required files.
       # If you have other directories or files that will need to be added to

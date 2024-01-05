@@ -1,6 +1,6 @@
-# v1.11.5
+# v1.11.6
 # Bug Fixes
-- Fixed missing sfx.
+- Fix build action.
 # v1.11.4
 # Bug Fixes
 - Fixed missing thumbnails.
