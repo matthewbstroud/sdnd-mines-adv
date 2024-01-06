@@ -1,3 +1,6 @@
+# v1.11.8
+# Bug Fixes
+- Fix paths in pack.
 # v1.11.7
 # New Features
 - Added Part 2: Phandalin

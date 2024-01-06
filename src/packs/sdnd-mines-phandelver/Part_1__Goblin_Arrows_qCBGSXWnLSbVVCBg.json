@@ -15288,7 +15288,7 @@
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/Empty_Trap.webp",
+            "src": "modules/sdnd-mines-adv/images/tiles/Empty_Trap.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -15368,7 +15368,7 @@
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/Empty_Trap.webp",
+            "src": "modules/sdnd-mines-adv/images/tiles/Empty_Trap.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -15448,7 +15448,7 @@
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/Empty_Trap.webp",
+            "src": "modules/sdnd-mines-adv/images/tiles/Empty_Trap.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -15528,7 +15528,7 @@
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/Empty_Trap.webp",
+            "src": "modules/sdnd-mines-adv/images/tiles/Empty_Trap.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -17606,7 +17606,7 @@
                 "_id": "Hs240YJnQXWhuZ5X",
                 "name": "Gundren's Map Case",
                 "type": "loot",
-                "img": "custom_icons/MapCase.png",
+                "img": "modules/sdnd-mines-adv/images/custom_icons/MapCase.png",
                 "effects": [],
                 "folder": "TCZj0v9pL3EFacb4",
                 "sort": 400000,
@@ -18358,7 +18358,7 @@
           },
           "flags": {},
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/Puddle%20of%20Blood.D14.watermarked.2k.png",
+            "src": "modules/sdnd-mines-adv/images/custom_tokens/Puddle%20of%20Blood.D14.watermarked.2k.png",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -18392,7 +18392,7 @@
           },
           "flags": {},
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/Puddle%20of%20Blood.D14.watermarked.2k.png",
+            "src": "modules/sdnd-mines-adv/images/custom_tokens/Puddle%20of%20Blood.D14.watermarked.2k.png",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -21820,19 +21820,19 @@
               "files": [
                 {
                   "id": "15SrNLjVWQzE7In4",
-                  "name": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/BridgeTrap_Closed.webp",
+                  "name": "modules/sdnd-mines-adv/images/tiles/BridgeTrap_Closed.webp",
                   "selected": false
                 },
                 {
                   "id": "8mGQPzLxIjCLZQt6",
-                  "name": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/BridgeTrap_Open.webp",
+                  "name": "modules/sdnd-mines-adv/images/tiles/BridgeTrap_Open.webp",
                   "selected": true
                 }
               ]
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/BridgeTrap_Closed.webp",
+            "src": "modules/sdnd-mines-adv/images/tiles/BridgeTrap_Closed.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -21937,7 +21937,7 @@
                 {
                   "action": "playsound",
                   "data": {
-                    "audiofile": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/SFX/woodbreaking.mp3",
+                    "audiofile": "modules/sdnd-mines-adv/SFX/woodbreaking.mp3",
                     "audiofor": "everyone",
                     "volume": 1,
                     "loop": false,
@@ -21950,7 +21950,7 @@
                 {
                   "action": "playsound",
                   "data": {
-                    "audiofile": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/SFX/splash.mp3",
+                    "audiofile": "modules/sdnd-mines-adv/SFX/splash.mp3",
                     "audiofor": "everyone",
                     "volume": 1,
                     "loop": false,
@@ -22021,7 +22021,7 @@
                 },
                 {
                   "id": "zzbAt33ns3VlKmAe",
-                  "name": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/Empty_Trap.webp",
+                  "name": "modules/sdnd-mines-adv/images/tiles/Empty_Trap.webp",
                   "selected": false
                 }
               ]
@@ -24728,7 +24728,7 @@
                 },
                 {
                   "id": "Mf7jDOlRgJi9LDpY",
-                  "name": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/Empty_Trap.webp",
+                  "name": "modules/sdnd-mines-adv/images/tiles/Empty_Trap.webp",
                   "selected": false
                 }
               ]
@@ -24795,7 +24795,7 @@
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/TreeOverhang.webp",
+            "src": "modules/sdnd-mines-adv/images/tiles/TreeOverhang.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
