@@ -1,3 +1,6 @@
+# v1.11.7
+# New Features
+- Added Part 2: Phandalin
 # v1.11.6
 # Bug Fixes
 - Fix build action.

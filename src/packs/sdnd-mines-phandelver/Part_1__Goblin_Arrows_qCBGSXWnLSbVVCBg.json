@@ -535,10 +535,10 @@
               "enabled": true,
               "type": "container",
               "closed": true,
-              "closedImage": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_icons/Chest_Icons/Chest_Unlocked.webp",
-              "emptyImage": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_icons/Chest_Icons/Chest_Empty.webp",
-              "openedImage": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_icons/Chest_Icons/Chest_Full.webp",
-              "lockedImage": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_icons/Chest_Icons/Chest_Locked.webp",
+              "closedImage": "modules/sdnd-mines-adv/images/custom_icons/Chest_Icons/Chest_Unlocked.webp",
+              "emptyImage": "modules/sdnd-mines-adv/images/custom_icons/Chest_Icons/Chest_Empty.webp",
+              "openedImage": "modules/sdnd-mines-adv/images/custom_icons/Chest_Icons/Chest_Full.webp",
+              "lockedImage": "modules/sdnd-mines-adv/images/custom_icons/Chest_Icons/Chest_Locked.webp",
               "lockedSound": "sounds/lock.wav"
             },
             "version": "2.6.16"
@@ -555,7 +555,7 @@
         },
         "randomImg": false,
         "texture": {
-          "src": "custom_icons/Chest_Icons/Chest_Locked.webp",
+          "src": "modules/sdnd-mines-adv/images/custom_icons/Chest_Icons/Chest_Locked.webp",
           "tint": null,
           "scaleX": 1,
           "scaleY": 1,
@@ -9747,7 +9747,7 @@
           "x": 3050,
           "y": 2350,
           "radius": 60,
-          "path": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/SFX/crackling-fireplace-nature-sounds-8012.mp3",
+          "path": "modules/sdnd-mines-adv/sfx/crackling-fireplace-nature-sounds-8012.mp3",
           "repeat": false,
           "volume": 0.5,
           "walls": true,
@@ -9960,7 +9960,7 @@
             }
           },
           "texture": {
-            "src": "/custom_icons/Fireplace_Icon.webp",
+            "src": "modules/sdnd-mines-adv/images/custom_icons/Fireplace_Icon.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -10024,7 +10024,7 @@
             }
           },
           "texture": {
-            "src": "/custom_icons/Fireplace_Icon.webp",
+            "src": "modules/sdnd-mines-adv/images/custom_icons/Fireplace_Icon.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -13448,7 +13448,7 @@
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_tokens/NPC/TreasureChest.webp",
+            "src": "modules/sdnd-mines-adv/images/custom_tokens/NPC/TreasureChest.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -13896,7 +13896,7 @@
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/modules/curse_of_strahd/Tokens/NPC/Goblin_Token.webp",
+            "src": "modules/sdnd-mines-adv/images/Tokens/NPC/Goblin_Token.webp",
             "tint": null,
             "scaleX": 0.7,
             "scaleY": 0.7,
@@ -13984,7 +13984,7 @@
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/modules/curse_of_strahd/Tokens/NPC/Goblin_Token.webp",
+            "src": "modules/sdnd-mines-adv/images/custom_tokens/Mobs/Goblin_Token.webp",
             "tint": null,
             "scaleX": 0.7,
             "scaleY": 0.7,
@@ -17162,7 +17162,7 @@
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/modules/curse_of_strahd/Tokens/NPC/Goblin_Token.webp",
+            "src": "modules/sdnd-mines-adv/images/custom_tokens/Mobs/Goblin_Token.webp",
             "tint": null,
             "scaleX": 0.7,
             "scaleY": 0.7,
@@ -47430,7 +47430,7 @@
             }
           },
           "texture": {
-            "src": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_tokens/NPC/LargeHorseCart.png",
+            "src": "modules/sdnd-mines-adv/images/custom_tokens/NPC/LargeHorseCart.png",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -47452,7 +47452,7 @@
           "overlayEffect": "",
           "detectionModes": [],
           "delta": {
-            "img": "https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_tokens/Full%20Cart8-5x2.png",
+            "img": "modules/sdnd-mines-adv/images/custom_tokens/Full%20Cart8-5x2.png",
             "_id": "Xuxg7WotH8hHdNGe",
             "name": null,
             "type": null,
