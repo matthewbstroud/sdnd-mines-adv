@@ -1,0 +1,740 @@
+{
+  "name": "Quest Journals",
+  "img": "modules/sdnd-mines-adv/images/lost%20mines.png",
+  "caption": "These are journal entries describing quests.",
+  "sort": 0,
+  "description": "",
+  "actors": [],
+  "combats": [],
+  "items": [],
+  "journal": [
+    {
+      "_id": "ExAnEuEtNObGazwa",
+      "name": "Quest: Save Carp",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 1100000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Save Carp",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>Carp found himself stalked by a rather large wolf and was able to scramble under the garden fence, but now he is stuck there.  </p><p></p>"
+          },
+          "_id": "xlY5MKTtgbp8aer5",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704238574918,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238574918,
+        "modifiedTime": 1704238582200,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "FAWuuOOFsnU7Mouh",
+      "name": "Quest: Old Owl Trouble",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 700000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Old Owl Trouble",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>Daran has heard stories from prospectors in the hills northeast of Phandalin that someone is digging around in the ruins known as Old Owl Well. More disturbingly, several prospectors have reported being chased from the area by undead. He asks the characters to visit the ruins, a two-day march northeast of Phandalin, and find out who’s there and what they’re up to. Daran knows that the ruins are an old watchtower of an ancient magical empire known as Netheril, and he worries that dangerous magic might be dormant there. </p><p> </p><p>Reward (negotiate)</p><p> </p>"
+          },
+          "_id": "JGP5qzXj1sFaAOuf",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704644159161,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238491543,
+        "modifiedTime": 1704238498901,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "IiW3188czCGab4aZ",
+      "name": "Quest: Finding Cragmaw Castle",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 300000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Finding Cragmaw Castle",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>Sildar also encourages the characters to keep up the pressure on the Cragmaw goblins. He offers the party a 500 gp reward if they can locate Cragmaw Castle and defeat or drive off the tribe’s chieftain. Sildar suggests the party might find the castle by searching the lands around the Triboar Trail for more raiding parties.</p><p></p>"
+          },
+          "_id": "g3anPBY9zGExXS0M",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704238387986,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238387986,
+        "modifiedTime": 1704238403540,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "R0nFvWWTr1kUOtLB",
+      "name": "Quest: Reidoth the Druid",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 1000000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Reidoth the Druid",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>Qelline suggests that the party visit Reidoth and ask for his help, “since there’s not an inch of the land he doesn’t know.” She tells the characters that Reidoth recently set out for the ruins of a town called Thundertree, just west of the Neverwinter Wood. The ruins are about fifty miles northwest of Phandalin, and she provides directions so the characters can easily find the place.</p><p> </p>"
+          },
+          "_id": "dgkmYNR3cMxRftUk",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704238552027,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238552027,
+        "modifiedTime": 1704238567439,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "SiGFnTkj0Q3H24eb",
+      "name": "Quest: Recovered Goods",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 900000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Recovered Goods",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>You found several crates of supplies emblazened with shield with a lion crest.   Can you find the rightful owner?</p><p> </p><p></p>"
+          },
+          "_id": "lB4nIM7jHQtBRgsv",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704238535360,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238535360,
+        "modifiedTime": 1704238543423,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "Yy88hkqcmiDARpuL",
+      "name": "Quest: Mirna’s Heirloom",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 600000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Mirna’s Heirloom",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>When she was a young girl, she and her family fled from the town of Thundertree after undead overran the place. Her family had an herb and alchemy shop, inside which a case containing an emerald necklace was hidden beneath a section of storage shelves. She never dared to return and retrieve it. The shop was in the southeast part of Thundertree.</p><p> </p>"
+          },
+          "_id": "B4A5sKFEvB7KgENo",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704238475380,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238475380,
+        "modifiedTime": 1704238480443,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "Z6B71ggoOuRub9UC",
+      "name": "Quest: Orc Trouble",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 800000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Orc Trouble",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p><span style=\"color:#191813\">Harbin is looking for someone to head east on the Triboar Trail, where travelers have reported trouble with a band of orcs near Wyvern Tor. He offers 100 gp to any group that can take care of the problem.</span></p><p></p>"
+          },
+          "_id": "eFr98cBh1zA6XRvs",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704238508804,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238508804,
+        "modifiedTime": 1704238515980,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "jsesOqycnFwv6N1r",
+      "name": "Quest: Finding Iarno",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 400000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Finding Iarno",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>After questioning several locals, Sildar learns that Iarno Albrek, a fellow member of the Lords’ Alliance, disappeared while exploring the area around Tresendar Manor about two months ago, shortly after arriving in Phandalin. Sildar asks the characters to investigate the manor and the surrounding area to find and bring back Iarno—or what’s left of him, if something killed him. Sildar describes Iarno as “a short, dark-bearded human wizard in his thirties.”</p>\n<p> </p>\n<p>Sildar has offered a reward of 200 gp to rescue Iarno.</p>"
+          },
+          "_id": "S4sLePFML3pmDmMD",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": null,
+            "systemVersion": null,
+            "coreVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": null,
+        "modifiedTime": 1704238421122,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "olTqmjhx0WBb2fvT",
+      "name": "Quest: Liberate the Orchard",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 500000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Liberate the Orchard",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>Some one has been stealing a large amount of apples from the Edermath Orchard.</p><p> </p><p>Darran Edermath has a 75 gp bounty up for anyone that can put an end to this theft. </p><p></p>"
+          },
+          "_id": "564bC7eQ8IP5zr1Y",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704238453629,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238453629,
+        "modifiedTime": 1704238459539,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "osWHCsJroul1n24a",
+      "name": "Quest: Halia’s Job Offer",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 100000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Halia’s Job Offer",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>Halia has offered 100 gp to eliminate the Redbrand leader, whom the outlaws call Glasstaff, and bring her any correspondence found in the leader’s quarters</p><p> </p>"
+          },
+          "_id": "IaXD5d4FrzRXrGvK",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704238431832,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238431832,
+        "modifiedTime": 1704238439483,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "t6v4SoWePR8QmoiP",
+      "name": "Quest: The Banshee’s Bargain",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 1200000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: The Banshee’s Bargain",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>Garaele desires an intermediary to bring Agatha a suitable gift, a jeweled silver comb, and persuade the creature to tell what she knows about the location of a spellbook belonging to a legendary mage named Bowgentle. Sister Garaele believes that a character who flatters Agatha’s vanity might be able to trade the comb for an answer. She offered the quest to the party and offers them three <a href=\"https://www.dndbeyond.com/equipment/potion-of-healing\" data-tooltip-href=\"//www.dndbeyond.com/adventuring-gear/71-tooltip?disable-webm=1&amp;disable-webm=1\">potions of healing</a> as payment for their efforts.</p><p> </p>"
+          },
+          "_id": "rm2WwqA10da6vn88",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704238592041,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 0,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238590805,
+        "modifiedTime": 1704238596151,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    },
+    {
+      "_id": "tVCTZiQxEpbi3Phn",
+      "name": "Quest: Delivering the Supplies",
+      "folder": "HSlwj6WjuDOZtZEt",
+      "sort": 200000,
+      "flags": {},
+      "pages": [
+        {
+          "name": "Quest: Delivering the Supplies",
+          "type": "text",
+          "title": {
+            "show": false,
+            "level": 1
+          },
+          "text": {
+            "format": 1,
+            "content": "<p>Gundren promised you 10 gp a piece to delivery a cart to Barthen's Provisions.</p><p> </p><h3></h3>"
+          },
+          "_id": "OeWJGv1pG9FxJhpt",
+          "image": {},
+          "video": {
+            "controls": true,
+            "volume": 0.5
+          },
+          "src": null,
+          "system": {},
+          "sort": 0,
+          "ownership": {
+            "default": -1
+          },
+          "flags": {},
+          "_stats": {
+            "systemId": "dnd5e",
+            "systemVersion": "2.4.1",
+            "coreVersion": "11.315",
+            "createdTime": null,
+            "modifiedTime": 1704238364345,
+            "lastModifiedBy": "6yhz13iFYYklKtgA"
+          }
+        }
+      ],
+      "ownership": {
+        "default": 2,
+        "6yhz13iFYYklKtgA": 3
+      },
+      "_stats": {
+        "systemId": "dnd5e",
+        "systemVersion": "2.4.1",
+        "coreVersion": "11.315",
+        "createdTime": 1704238364345,
+        "modifiedTime": 1704238364345,
+        "lastModifiedBy": "6yhz13iFYYklKtgA"
+      }
+    }
+  ],
+  "scenes": [],
+  "tables": [],
+  "macros": [],
+  "cards": [],
+  "playlists": [],
+  "folders": [
+    {
+      "name": "Player Handouts",
+      "type": "JournalEntry",
+      "sorting": "a",
+      "sort": 0,
+      "color": "#515fc8",
+      "flags": {
+        "core": {
+          "sourceId": "Folder.uy48yjrhAPs1caew"
+        }
+      },
+      "_id": "uy48yjrhAPs1caew",
+      "folder": null,
+      "description": "",
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "name": "Quests: Active",
+      "type": "JournalEntry",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {},
+      "_id": "HSlwj6WjuDOZtZEt",
+      "folder": "uy48yjrhAPs1caew",
+      "description": "",
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    },
+    {
+      "name": "Quests: Completed",
+      "type": "JournalEntry",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {},
+      "_id": "Qe3gTL8JtnChwLAx",
+      "folder": "uy48yjrhAPs1caew",
+      "description": "",
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      }
+    }
+  ],
+  "_id": "fORMLBxT4DA5TPp4",
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "2.4.1",
+    "coreVersion": "11.315",
+    "createdTime": 1704644330290,
+    "modifiedTime": 1704644456965,
+    "lastModifiedBy": "6yhz13iFYYklKtgA"
+  },
+  "_key": "!adventures!fORMLBxT4DA5TPp4"
+}

@@ -9747,7 +9747,7 @@
           "x": 3050,
           "y": 2350,
           "radius": 60,
-          "path": "modules/sdnd-mines-adv/sfx/crackling-fireplace-nature-sounds-8012.mp3",
+          "path": "modules/sdnd-mines-adv/SFX/crackling-fireplace-nature-sounds-8012.mp3",
           "repeat": false,
           "volume": 0.5,
           "walls": true,
@@ -9931,7 +9931,9 @@
               "record": false,
               "restriction": "all",
               "controlled": "gm",
-              "trigger": "dblclick",
+              "trigger": [
+                "dblclick"
+              ],
               "allowpaused": true,
               "usealpha": false,
               "pointer": false,
@@ -9953,10 +9955,17 @@
                   "id": "13d72936-6a0f-4ffc-bd26-0c4bb55dbac1"
                 }
               ],
-              "files": []
+              "files": [],
+              "vision": false,
+              "cooldown": null
             },
             "dnd5e-helpers": {
               "coverLevel": 0
+            },
+            "betterroofs": {
+              "brMode": false,
+              "occlusionLinkId": "",
+              "occlusionLinkSource": false
             }
           },
           "texture": {
@@ -10024,7 +10033,7 @@
             }
           },
           "texture": {
-            "src": "modules/sdnd-mines-adv/images/custom_icons/Fireplace_Icon.webp",
+            "src": "/custom_icons/Fireplace_Icon.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -13226,7 +13235,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": 1704234200082,
-        "modifiedTime": 1704467191151,
+        "modifiedTime": 1704644093120,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       }
     },
@@ -13448,7 +13457,7 @@
             }
           },
           "texture": {
-            "src": "modules/sdnd-mines-adv/images/custom_tokens/NPC/TreasureChest.webp",
+            "src": "modules/sdnd-mines-adv/images/custom_icons/NPC/TreasureChest.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -13896,7 +13905,7 @@
             }
           },
           "texture": {
-            "src": "modules/sdnd-mines-adv/images/Tokens/NPC/Goblin_Token.webp",
+            "src": "modules/sdnd-mines-adv/images/custom_tokens/Mobs/Goblin_Token.webp",
             "tint": null,
             "scaleX": 0.7,
             "scaleY": 0.7,
@@ -47430,7 +47439,7 @@
             }
           },
           "texture": {
-            "src": "modules/sdnd-mines-adv/images/custom_tokens/NPC/LargeHorseCart.png",
+            "src": "modules/sdnd-mines-adv/images/custom_icons/NPC/LargeHorseCart.png",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -47452,7 +47461,7 @@
           "overlayEffect": "",
           "detectionModes": [],
           "delta": {
-            "img": "modules/sdnd-mines-adv/images/custom_tokens/Full%20Cart8-5x2.png",
+            "img": "modules/sdnd-mines-adv/images/custom_icons/Full%20Cart8-5x2.png",
             "_id": "Xuxg7WotH8hHdNGe",
             "name": null,
             "type": null,
@@ -47687,7 +47696,7 @@
       "name": "Misc",
       "type": "Item",
       "sorting": "a",
-      "sort": 100000,
+      "sort": 900000,
       "color": null,
       "flags": {},
       "folder": "aVjgWnpRDdOBxj1z",
@@ -47697,7 +47706,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": null,
-        "modifiedTime": 1704304730574,
+        "modifiedTime": 1704641250442,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       }
     },
@@ -47706,7 +47715,7 @@
       "name": "Potions",
       "type": "Item",
       "sorting": "a",
-      "sort": 200000,
+      "sort": 1000000,
       "color": null,
       "flags": {},
       "folder": "aVjgWnpRDdOBxj1z",
@@ -47716,7 +47725,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": null,
-        "modifiedTime": 1704304740398,
+        "modifiedTime": 1704641250442,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       }
     },
@@ -47801,7 +47810,11 @@
       "sorting": "a",
       "sort": 0,
       "color": "#515fc8",
-      "flags": {},
+      "flags": {
+        "core": {
+          "sourceId": "Folder.uy48yjrhAPs1caew"
+        }
+      },
       "_id": "uy48yjrhAPs1caew",
       "folder": null,
       "description": "",
@@ -47841,7 +47854,7 @@
     "systemVersion": "2.4.1",
     "coreVersion": "11.315",
     "createdTime": 1704303455742,
-    "modifiedTime": 1704467263246,
+    "modifiedTime": 1704644444484,
     "lastModifiedBy": "6yhz13iFYYklKtgA"
   },
   "_key": "!adventures!qCBGSXWnLSbVVCBg"
