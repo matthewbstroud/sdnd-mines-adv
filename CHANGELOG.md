@@ -1,3 +1,6 @@
+# v1.11.10
+# New Features
+- Added Part 4: Wave Echo Cavern
 # v1.11.9
 # New Features
 - Added Part 3: The Spider's Web
