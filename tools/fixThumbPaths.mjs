@@ -2,12 +2,16 @@ import { promises as fs } from "fs";
 const replacements = [
     ['"custom_tokens/', '"modules/sdnd-mines-adv/images/custom_tokens/'],
     ['"custom_icons/', '"modules/sdnd-mines-adv/images/custom_icons/'],
+    ['"tiles/', '"modules/sdnd-mines-adv/images/tiles/'],
+    ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_tokens/', 'modules/sdnd-mines-adv/images/custom_icons/'],
+    ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_icons/', 'modules/sdnd-mines-adv/images/custom_icons/'],
     ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/', 'modules/sdnd-mines-adv/images/tiles/'],
     ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/Puddle%20of%20Blood.D14.watermarked.2k.png', 'modules/sdnd-mines-adv/images/custom_tokens/Puddle%20of%20Blood.D14.watermarked.2k.png'],
     ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/SFX/', 'modules/sdnd-mines-adv/SFX/'],
     ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/nothic.png', 'modules/sdnd-mines-adv/images/custom_tokens/Mobs/nothic.png'],
     ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/modules/curse_of_strahd/Tokens/NPC/Goblin_Token.webp', 'modules/sdnd-mines-adv/images/custom_tokens/Mobs/Goblin_Token.webp'],
-    ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/maps/', 'modules/sdnd-mines-adv/images/maps/']
+    ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/maps/', 'modules/sdnd-mines-adv/images/maps/'],
+    ['modules/dransky-lost-mines-maps/audio/', 'modules/lost-mines-by-dranskyv2/audio/']
 ];
 const MODULE_ID = process.cwd();
 const desiredThumbPath = `modules/${process.env.npm_package_name}/images/thumbs/`;

@@ -1,3 +1,8 @@
+# v1.11.9
+# New Features
+- Added Part 3: The Spider's Web
+# Bug Fixes
+- More broken paths fixed.
 # v1.11.8
 # Bug Fixes
 - Fix paths in pack.
