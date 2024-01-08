@@ -1,3 +1,6 @@
+# v1.11.11
+# Bug Fixes
+- Fix folder path.
 # v1.11.10
 # New Features
 - Added Part 4: Wave Echo Cavern
