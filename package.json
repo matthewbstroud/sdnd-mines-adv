@@ -1,6 +1,6 @@
 {
   "name": "sdnd-mines-adv",
-  "version": "1.11.16",
+  "version": "1.11.17",
   "description": "Mines of Phandelver",
   "main": "module.json",
   "scripts": {
