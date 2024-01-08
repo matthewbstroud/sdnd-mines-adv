@@ -18367,7 +18367,7 @@
           },
           "flags": {},
           "texture": {
-            "src": "modules/sdnd-mines-adv/images/custom_tokens/Puddle%20of%20Blood.D14.watermarked.2k.png",
+            "src": "modules/sdnd-mines-adv/images/Puddle%20of%20Blood.D14.watermarked.2k.png",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -18401,7 +18401,7 @@
           },
           "flags": {},
           "texture": {
-            "src": "modules/sdnd-mines-adv/images/custom_tokens/Puddle%20of%20Blood.D14.watermarked.2k.png",
+            "src": "modules/sdnd-mines-adv/images/Puddle%20of%20Blood.D14.watermarked.2k.png",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
