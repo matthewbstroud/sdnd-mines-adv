@@ -3,7 +3,7 @@ const replacements = [
     ['"custom_tokens/', '"modules/sdnd-mines-adv/images/custom_tokens/'],
     ['"custom_icons/', '"modules/sdnd-mines-adv/images/custom_icons/'],
     ['"tiles/', '"modules/sdnd-mines-adv/images/tiles/'],
-    ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_tokens/', 'modules/sdnd-mines-adv/images/custom_icons/'],
+    ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_tokens/', 'modules/sdnd-mines-adv/images/custom_tokens/'],
     ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/custom_icons/', 'modules/sdnd-mines-adv/images/custom_icons/'],
     ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/tiles/', 'modules/sdnd-mines-adv/images/tiles/'],
     ['https://assets.forge-vtt.com/634b24b96df3a5a10e8ccd71/Puddle%20of%20Blood.D14.watermarked.2k.png', 'modules/sdnd-mines-adv/images/custom_tokens/Puddle%20of%20Blood.D14.watermarked.2k.png'],

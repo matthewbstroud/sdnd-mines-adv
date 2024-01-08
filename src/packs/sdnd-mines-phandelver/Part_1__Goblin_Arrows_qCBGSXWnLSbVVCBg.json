@@ -13235,7 +13235,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": 1704234200082,
-        "modifiedTime": 1704644093120,
+        "modifiedTime": 1704675819202,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       }
     },
@@ -13457,7 +13457,7 @@
             }
           },
           "texture": {
-            "src": "modules/sdnd-mines-adv/images/custom_icons/NPC/TreasureChest.webp",
+            "src": "modules/sdnd-mines-adv/images/custom_tokens/NPC/TreasureChest.webp",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -47439,7 +47439,7 @@
             }
           },
           "texture": {
-            "src": "modules/sdnd-mines-adv/images/custom_icons/NPC/LargeHorseCart.png",
+            "src": "modules/sdnd-mines-adv/images/custom_tokens/NPC/LargeHorseCart.png",
             "tint": null,
             "scaleX": 1,
             "scaleY": 1,
@@ -47461,7 +47461,7 @@
           "overlayEffect": "",
           "detectionModes": [],
           "delta": {
-            "img": "modules/sdnd-mines-adv/images/custom_icons/Full%20Cart8-5x2.png",
+            "img": "modules/sdnd-mines-adv/images/custom_tokens/Full%20Cart8-5x2.png",
             "_id": "Xuxg7WotH8hHdNGe",
             "name": null,
             "type": null,
@@ -47810,11 +47810,7 @@
       "sorting": "a",
       "sort": 0,
       "color": "#515fc8",
-      "flags": {
-        "core": {
-          "sourceId": "Folder.uy48yjrhAPs1caew"
-        }
-      },
+      "flags": {},
       "_id": "uy48yjrhAPs1caew",
       "folder": null,
       "description": "",
@@ -47854,7 +47850,7 @@
     "systemVersion": "2.4.1",
     "coreVersion": "11.315",
     "createdTime": 1704303455742,
-    "modifiedTime": 1704644444484,
+    "modifiedTime": 1704675841913,
     "lastModifiedBy": "6yhz13iFYYklKtgA"
   },
   "_key": "!adventures!qCBGSXWnLSbVVCBg"
