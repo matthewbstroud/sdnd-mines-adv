@@ -1,3 +1,10 @@
+# v1.11.16
+# Bug Fixes
+- Fix non-hidden treasure chest just inside wave echo.
+- 1.1 should start as day.
+- 1.2 Fix trap.
+- 1.3 Hurt on trap was not needed.
+- Add Chris automations to NPCs.
 # v1.11.15
 # Bug Fixes
 - Lighting change for wave echo cave

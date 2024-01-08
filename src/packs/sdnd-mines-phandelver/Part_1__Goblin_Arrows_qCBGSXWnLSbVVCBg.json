@@ -18679,7 +18679,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": 1704234200082,
-        "modifiedTime": 1704679099783,
+        "modifiedTime": 1704755708860,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       }
     },
@@ -22165,7 +22165,7 @@
       "fogReset": 1633033981580,
       "globalLight": false,
       "globalLightThreshold": null,
-      "darkness": 1,
+      "darkness": 0,
       "drawings": [],
       "tokens": [
         {
@@ -26607,7 +26607,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": 1704221594519,
-        "modifiedTime": 1704410061739,
+        "modifiedTime": 1704754592568,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       },
       "active": false,
@@ -27305,7 +27305,7 @@
           "rotation": 0,
           "alpha": 1,
           "hidden": true,
-          "locked": true,
+          "locked": false,
           "overhead": false,
           "occlusion": {
             "mode": 1,
@@ -27442,6 +27442,34 @@
                   "id": "Q423BFA9kIkwvC6Q"
                 },
                 {
+                  "action": "tileimage",
+                  "data": {
+                    "entity": {
+                      "id": "tile",
+                      "name": "This Tile"
+                    },
+                    "select": "last",
+                    "transition": "none",
+                    "speed": 1,
+                    "loop": 1
+                  },
+                  "id": "QoS7hzJXatuemjez"
+                },
+                {
+                  "action": "tileimage",
+                  "data": {
+                    "entity": {
+                      "id": "Scene.EfJmV6mFmvuneyBS.Tile.3W3lKx1geCwypZKJ",
+                      "name": "Tile: 3W3lKx1geCwypZKJ"
+                    },
+                    "select": "last",
+                    "transition": "fade",
+                    "speed": 1,
+                    "loop": 1
+                  },
+                  "id": "6clWeEeXtnWCKXOq"
+                },
+                {
                   "action": "attack",
                   "data": {
                     "entity": {
@@ -27460,20 +27488,6 @@
                     "rollattack": true
                   },
                   "id": "Z53s0OaS7Bcl6qat"
-                },
-                {
-                  "action": "tileimage",
-                  "data": {
-                    "entity": {
-                      "id": "Scene.EfJmV6mFmvuneyBS.Tile.3W3lKx1geCwypZKJ",
-                      "name": "Tile: 3W3lKx1geCwypZKJ"
-                    },
-                    "select": "last",
-                    "transition": "fade",
-                    "speed": 1,
-                    "loop": 1
-                  },
-                  "id": "6clWeEeXtnWCKXOq"
                 }
               ],
               "files": [
@@ -29748,7 +29762,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": 1704220351772,
-        "modifiedTime": 1704677480475,
+        "modifiedTime": 1704755132556,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       },
       "active": false,
@@ -30700,7 +30714,7 @@
               "coverLevel": 0
             },
             "betterroofs": {
-              "brMode": 0,
+              "brMode": false,
               "manualPoly": "",
               "occlusionLinkId": "",
               "occlusionLinkSource": false
@@ -30710,7 +30724,9 @@
               "record": false,
               "restriction": "all",
               "controlled": "all",
-              "trigger": "dblclick",
+              "trigger": [
+                "dblclick"
+              ],
               "allowpaused": false,
               "usealpha": false,
               "pointer": false,
@@ -30756,16 +30772,6 @@
                   "id": "c1f9gkU0LL8XnxKk"
                 },
                 {
-                  "action": "hurtheal",
-                  "data": {
-                    "entity": "",
-                    "value": "-1d6",
-                    "chatMessage": true,
-                    "rollmode": "roll"
-                  },
-                  "id": "xJ6IHgW5qYZ6maGx"
-                },
-                {
                   "action": "elevation",
                   "data": {
                     "entity": "",
@@ -30784,7 +30790,9 @@
                   "id": "74x7Qcip3xM0i2n2"
                 }
               ],
-              "files": []
+              "files": [],
+              "vision": false,
+              "cooldown": null
             }
           },
           "texture": {
@@ -35598,7 +35606,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": 1704220355228,
-        "modifiedTime": 1704677630144,
+        "modifiedTime": 1704755171507,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       },
       "active": false,
@@ -53387,11 +53395,7 @@
       "sorting": "a",
       "sort": 400000,
       "color": null,
-      "flags": {
-        "core": {
-          "sourceId": "Folder.K231u3X8cUtEdFnw"
-        }
-      },
+      "flags": {},
       "_id": "K231u3X8cUtEdFnw",
       "folder": "d19drSYoNSWy1LZz",
       "description": "",
@@ -53413,7 +53417,7 @@
     "systemVersion": "2.4.1",
     "coreVersion": "11.315",
     "createdTime": 1704303455742,
-    "modifiedTime": 1704679127086,
+    "modifiedTime": 1704755717498,
     "lastModifiedBy": "6yhz13iFYYklKtgA"
   },
   "_key": "!adventures!qCBGSXWnLSbVVCBg"
