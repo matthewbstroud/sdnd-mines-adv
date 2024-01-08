@@ -14,7 +14,8 @@ const replacements = [
     ['modules/dransky-lost-mines-maps/audio/', 'modules/lost-mines-by-dranskyv2/audio/'],
     ['modules/sdnd-mines-adv/images/custom_tokens/twig_blight.png', 'modules/sdnd-mines-adv/images/custom_tokens/Mobs/twig_blight.png'],
     ['modules/sdnd-mines-adv/images/custom_tokens/Puddle%20of%20Blood.D14.watermarked.2k.png', 'modules/sdnd-mines-adv/images/Puddle%20of%20Blood.D14.watermarked.2k.png'],
-    ['"/custom_icons/Fireplace_Icon.webp"', '"modules/sdnd-mines-adv/images/custom_icons/Fireplace_Icon.webp"']
+    ['"/custom_icons/Fireplace_Icon.webp"', '"modules/sdnd-mines-adv/images/custom_icons/Fireplace_Icon.webp"'],
+    ['modules/sdnd-mines-adv/images/custom_tokens/DwarfBarkeep_Female.png', 'modules/sdnd-mines-adv/images/custom_tokens/NPC/DwarfBarkeep_Female.png']
 ];
 const MODULE_ID = process.cwd();
 const desiredThumbPath = `modules/${process.env.npm_package_name}/images/thumbs/`;
