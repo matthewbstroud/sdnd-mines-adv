@@ -18679,7 +18679,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": 1704234200082,
-        "modifiedTime": 1704755708860,
+        "modifiedTime": 1704757318805,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       }
     },
@@ -26711,21 +26711,14 @@
       ],
       "tokens": [
         {
-          "_id": "o5YK4NNo5byRQjLX",
           "name": "Falling Rubble",
           "displayName": 0,
-          "actorId": null,
           "actorLink": false,
           "width": 1,
           "height": 1,
-          "x": 400,
-          "y": 2200,
-          "elevation": 0,
           "lockRotation": true,
           "rotation": 0,
-          "effects": [],
           "alpha": 1,
-          "hidden": true,
           "light": {
             "alpha": 0.5,
             "angle": 360,
@@ -26760,11 +26753,6 @@
           "flags": {
             "autorotate": {
               "enabled": false
-            },
-            "LightsHUD": {
-              "lightspellstate": false,
-              "lanternconsumablestate": false,
-              "torchconsumablestate": false
             }
           },
           "texture": {
@@ -26787,21 +26775,63 @@
             "saturation": 0,
             "contrast": 0
           },
-          "overlayEffect": "",
           "detectionModes": [],
+          "appendNumber": false,
+          "prependAdjective": false,
+          "actorId": "BhXpr1f0zgr34v80",
+          "x": 400,
+          "y": 2200,
+          "hidden": true,
+          "_id": "1PLsG9T7p234K9MD",
           "delta": {
-            "_id": "o5YK4NNo5byRQjLX",
+            "_id": "RISDrzk9m1EpqSjS",
+            "system": {
+              "attributes": {
+                "hp": {
+                  "tempmax": null
+                }
+              }
+            },
+            "items": [],
+            "effects": [],
+            "flags": {
+              "midi-qol": {
+                "concentration-damage": 0
+              },
+              "tidy5e-sheet": {
+                "death": {
+                  "success": 0,
+                  "failure": 0
+                },
+                "maxPreparedSpells": null,
+                "gender": "",
+                "age": "",
+                "height": "",
+                "weight": "",
+                "eyes": "",
+                "skin": "",
+                "hair": "",
+                "notes1": {
+                  "name": ""
+                },
+                "notes2": {
+                  "name": ""
+                },
+                "notes3": {
+                  "name": ""
+                },
+                "notes4": {
+                  "name": ""
+                }
+              }
+            },
             "name": null,
             "type": null,
             "img": null,
-            "system": {},
-            "items": [],
-            "effects": [],
-            "ownership": null,
-            "flags": {}
+            "ownership": null
           },
-          "appendNumber": false,
-          "prependAdjective": false
+          "elevation": 0,
+          "effects": []
         }
       ],
       "lights": [
@@ -27477,7 +27507,7 @@
                       "name": "Tokens within Tile"
                     },
                     "actor": {
-                      "id": "Actor.WpuyQ2ocXfBOu0YE",
+                      "id": "Actor.BhXpr1f0zgr34v80",
                       "name": "Falling on Rocks"
                     },
                     "attack": {
@@ -27485,7 +27515,10 @@
                       "name": "Landing on the Rocks"
                     },
                     "rollmode": "roll",
-                    "rollattack": true
+                    "rollattack": "true",
+                    "chatcard": true,
+                    "fastforward": true,
+                    "rolldamage": true
                   },
                   "id": "Z53s0OaS7Bcl6qat"
                 }
@@ -29762,7 +29795,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": 1704220351772,
-        "modifiedTime": 1704755132556,
+        "modifiedTime": 1704757300974,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       },
       "active": false,
@@ -30141,7 +30174,7 @@
                       "id": "token",
                       "name": "Triggering Token"
                     },
-                    "value": "10"
+                    "value": "20"
                   },
                   "id": "15Xbd4aWYuk2pOsb"
                 },
@@ -30239,6 +30272,20 @@
                     "altereffect": ""
                   },
                   "id": "fD9jzjs8zX1e8ffE"
+                },
+                {
+                  "action": "tileimage",
+                  "data": {
+                    "entity": {
+                      "id": "tile",
+                      "name": "This Tile"
+                    },
+                    "select": "last",
+                    "transition": "none",
+                    "speed": 1,
+                    "loop": 1
+                  },
+                  "id": "A9Hv2RQFb5LqBctK"
                 }
               ],
               "files": [
@@ -30744,7 +30791,7 @@
                     },
                     "collection": "tokens",
                     "attribute": "elevation",
-                    "value": "= 10"
+                    "value": "= 20"
                   },
                   "id": "FFQWra9yEX5UJxGH"
                 },
@@ -35606,7 +35653,7 @@
         "systemVersion": "2.4.1",
         "coreVersion": "11.315",
         "createdTime": 1704220355228,
-        "modifiedTime": 1704755171507,
+        "modifiedTime": 1704757308131,
         "lastModifiedBy": "6yhz13iFYYklKtgA"
       },
       "active": false,
@@ -53417,7 +53464,7 @@
     "systemVersion": "2.4.1",
     "coreVersion": "11.315",
     "createdTime": 1704303455742,
-    "modifiedTime": 1704755717498,
+    "modifiedTime": 1704757332715,
     "lastModifiedBy": "6yhz13iFYYklKtgA"
   },
   "_key": "!adventures!qCBGSXWnLSbVVCBg"

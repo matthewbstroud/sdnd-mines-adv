@@ -1,3 +1,6 @@
+# v1.11.17
+# Bug Fixes
+- Second attempt to fix 1.3
 # v1.11.16
 # Bug Fixes
 - Fix non-hidden treasure chest just inside wave echo.
