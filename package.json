@@ -1,11 +1,12 @@
 {
   "name": "sdnd-mines-adv",
-  "version": "1.11.17",
+  "version": "1.11.18",
   "description": "Mines of Phandelver",
   "main": "module.json",
   "scripts": {
     "fixThumbs": "node ./tools/fixThumbPaths.mjs",
     "updateYML": "node ./tools/pushLDBtoYML.mjs",
+    "postupdateYML": "node ./tools/fixThumbPaths.mjs",
     "updateLDB": "node ./tools/pullYMLtoLDB.mjs"
   },
   "repository": {
