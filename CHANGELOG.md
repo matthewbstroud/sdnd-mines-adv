@@ -1,3 +1,7 @@
+# v13.5.0
+# New Features
+- Foundry v13 support.
+- DnD5e 5.x support.
 # v1.11.18
 # Bug Fixes
 - Second attempt to fix 1.3
@@ -51,4 +55,5 @@
 # v1.11.0
 # New Features
 - Includes Part 1: Goblin Arrows.
+
 

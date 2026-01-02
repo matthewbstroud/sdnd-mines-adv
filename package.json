@@ -1,6 +1,6 @@
 {
   "name": "sdnd-mines-adv",
-  "version": "1.11.18",
+  "version": "13.5.0",
   "description": "Mines of Phandelver",
   "main": "module.json",
   "scripts": {
@@ -16,6 +16,6 @@
   "author": "Matthew Stroud",
   "license": "MIT",
   "dependencies": {
-    "@foundryvtt/foundryvtt-cli": "^1.0.2"
+    "@foundryvtt/foundryvtt-cli": "^3.0.0"
   }
 }
