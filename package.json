@@ -1,11 +1,12 @@
 {
   "name": "sdnd-mines-adv",
-  "version": "1.11.17",
+  "version": "13.5.0",
   "description": "Mines of Phandelver",
   "main": "module.json",
   "scripts": {
     "fixThumbs": "node ./tools/fixThumbPaths.mjs",
     "updateYML": "node ./tools/pushLDBtoYML.mjs",
+    "postupdateYML": "node ./tools/fixThumbPaths.mjs",
     "updateLDB": "node ./tools/pullYMLtoLDB.mjs"
   },
   "repository": {
@@ -15,6 +16,6 @@
   "author": "Matthew Stroud",
   "license": "MIT",
   "dependencies": {
-    "@foundryvtt/foundryvtt-cli": "^1.0.2"
+    "@foundryvtt/foundryvtt-cli": "^3.0.0"
   }
 }
